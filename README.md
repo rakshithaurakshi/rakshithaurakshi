@@ -1,5 +1,4 @@
-# 💫 About Me:
-I am a computer engineer!
+
 
 
 ## 🌐 Socials:
